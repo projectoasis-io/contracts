@@ -1,0 +1,25 @@
+{
+  "name": "oasis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/test-helpers": "^0.5.6",
+    "truffle": "^5.1.41",
+    "truffle-flattener": "^1.4.4",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3-provider-engine": "^16.0.1"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
